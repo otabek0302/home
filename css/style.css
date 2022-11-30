@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap');
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+.nav_item{
+     width: 20px;
+     height: 20px;
+     background-color: #c1c1c1;
+     border-radius: 50%;
+}
+.nav_item:last-child{
+     width: 35px;
+     height: 35px;
+}
